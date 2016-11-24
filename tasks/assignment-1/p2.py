@@ -3,12 +3,12 @@
 Author: Lucas David -- <ld492@drexel.edu>
 
 """
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
+from algorithms.linear_estimator import Perceptron
 from mpl_toolkits.mplot3d import Axes3D
 from scipy.io import loadmat
 from sklearn.metrics import accuracy_score
-from algorithms.linear_estimator import Perceptron
 
 Axes3D
 
