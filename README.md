@@ -1,2 +1,2 @@
 # neural-networks-2
-Neural Networks II class at Universidade Federal de Campinas
+Neural Networks II class at Universidade Estadual de Campinas
